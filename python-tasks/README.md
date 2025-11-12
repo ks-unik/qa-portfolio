@@ -15,4 +15,4 @@
 - Формулировка задачи адаптирована автором для публичного размещения.  
 - В репозитории размещено **только авторское решение на Python**.
 
-**Решение:** 
+**Решение:** https://raw.githubusercontent.com/ks-unik/qa-portfolio/refs/heads/main/python-tasks/task_1_internet.py
