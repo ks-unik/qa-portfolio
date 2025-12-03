@@ -1,0 +1,3 @@
+[submodule "copy-Tasks-for-NT-Performance-Lab/copy-Tasks-for-NT-Performance-Lab"]
+	path = copy-Tasks-for-NT-Performance-Lab/copy-Tasks-for-NT-Performance-Lab
+	url = https://github.com/ks-unik/Tasks-for-NT-Performance-Lab.git
