@@ -14,6 +14,7 @@
 
 ## 📂 Общая структура репозитория
 
+```
 qa-portfolio/
 ├── manual-testing/ # проекты и примеры мануального тестирования
 │ ├── IntelService/
@@ -47,7 +48,7 @@ qa-portfolio/
 ├── photo.jpeg
 ├── README.md
 └── style.css
-
+```
 
 ---
 
